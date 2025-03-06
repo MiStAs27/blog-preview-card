@@ -2,7 +2,7 @@
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
-## Welcome! 👋
+## AUTOR👋
 
 **Herlan Santiago Mistas Huanca**
-**Have fun building!** 🚀
+
